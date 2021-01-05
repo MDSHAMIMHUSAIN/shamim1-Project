@@ -1,0 +1,21 @@
+body{
+    font-family: 'Playfair Display', serif;
+}
+h1{
+    font-size: 40px;
+}
+.name-highlight{
+    color: tomato;
+}
+.dh-milom{
+    color: #363958;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    mask-origin: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 70%;
+}
